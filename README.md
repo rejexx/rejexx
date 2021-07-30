@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rejexx
 - 👀 I’m interested in using machine learning for the progress of human kind
-- 🌱 I’m currently learning data science in a bootcamp course (ends ~Jun 2021)
+- 🌱 I’ve just finished a Data Science bootcamp and looking for some great data science books next.
 - 💞️ I’m looking for employment as a data scientist, or a related role.
 - 📫 How to reach me https://www.linkedin.com/in/jeffreyjex/
 
