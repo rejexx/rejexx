@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rejexx
-- 👀 I’m interested in using machine learning for the progress of human kind
-- 🌱 I’ve just finished a 6 month Data Science training and looking for some great data science books and projects to increase my understanding.
-- 💞️ I’m looking for employment as an entry data scientist, or a related role with a heavy python and data focus.
+- 👀 I’m interested in using machine learning for the progress of human kind.
+- 🌱 Currently brushing up my stats understanding with (Intro to modern statistics)[https://openintro-ims.netlify.app/index.html] before diving deeper.
+- 💞️ I'm always open for interesting projects, especially related to geospatial data science.  I'd be happy to collaborate or join a hack-a-thon.
 - 📫 How to reach me https://www.linkedin.com/in/jeffreyjex/
 
 - Check out my pinned repos for data science projects I completed, contact me if you've got any questions!
