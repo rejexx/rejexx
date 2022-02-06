@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rejexx
 - 👀 I’m interested in using machine learning for the progress of human kind.
-- 🌱 Currently brushing up my stats understanding with [Intro to modern statistics](https://openintro-ims.netlify.app/index.html) before diving deeper.
+- 🌱 Currently working to build some arty-maps for home decor using python and open street maps (think prettymaps).
 - 💞️ I'm always open for interesting projects, especially related to geospatial data science.  I'd be happy to collaborate or join a hack-a-thon.
 - 📫 How to reach me https://www.linkedin.com/in/jeffreyjex/
 
